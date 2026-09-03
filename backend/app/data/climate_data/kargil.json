@@ -1,0 +1,31 @@
+{
+  "location_id": "kargil",
+  "location_name": "Kargil, Ladakh",
+  "season": "Winter",
+  "hourly_data": [
+    {"hour": 0, "temperature": -12.5, "solar_radiation": 0.0, "humidity": 70.0, "wind_speed": 3.0},
+    {"hour": 1, "temperature": -13.5, "solar_radiation": 0.0, "humidity": 72.0, "wind_speed": 2.8},
+    {"hour": 2, "temperature": -14.2, "solar_radiation": 0.0, "humidity": 75.0, "wind_speed": 2.5},
+    {"hour": 3, "temperature": -15.0, "solar_radiation": 0.0, "humidity": 77.0, "wind_speed": 2.2},
+    {"hour": 4, "temperature": -15.8, "solar_radiation": 0.0, "humidity": 78.0, "wind_speed": 2.0},
+    {"hour": 5, "temperature": -16.5, "solar_radiation": 0.0, "humidity": 80.0, "wind_speed": 1.8},
+    {"hour": 6, "temperature": -16.0, "solar_radiation": 0.0, "humidity": 78.0, "wind_speed": 2.0},
+    {"hour": 7, "temperature": -14.5, "solar_radiation": 30.0, "humidity": 72.0, "wind_speed": 2.5},
+    {"hour": 8, "temperature": -12.0, "solar_radiation": 150.0, "humidity": 65.0, "wind_speed": 3.2},
+    {"hour": 9, "temperature": -9.0, "solar_radiation": 300.0, "humidity": 58.0, "wind_speed": 3.8},
+    {"hour": 10, "temperature": -6.0, "solar_radiation": 440.0, "humidity": 52.0, "wind_speed": 4.2},
+    {"hour": 11, "temperature": -4.0, "solar_radiation": 540.0, "humidity": 46.0, "wind_speed": 4.5},
+    {"hour": 12, "temperature": -2.5, "solar_radiation": 580.0, "humidity": 42.0, "wind_speed": 4.8},
+    {"hour": 13, "temperature": -1.8, "solar_radiation": 560.0, "humidity": 40.0, "wind_speed": 5.0},
+    {"hour": 14, "temperature": -2.0, "solar_radiation": 480.0, "humidity": 42.0, "wind_speed": 4.6},
+    {"hour": 15, "temperature": -3.5, "solar_radiation": 350.0, "humidity": 48.0, "wind_speed": 4.2},
+    {"hour": 16, "temperature": -5.0, "solar_radiation": 190.0, "humidity": 54.0, "wind_speed": 3.8},
+    {"hour": 17, "temperature": -7.2, "solar_radiation": 40.0, "humidity": 60.0, "wind_speed": 3.5},
+    {"hour": 18, "temperature": -9.0, "solar_radiation": 0.0, "humidity": 64.0, "wind_speed": 3.2},
+    {"hour": 19, "temperature": -10.2, "solar_radiation": 0.0, "humidity": 66.0, "wind_speed": 3.0},
+    {"hour": 20, "temperature": -11.0, "solar_radiation": 0.0, "humidity": 68.0, "wind_speed": 3.0},
+    {"hour": 21, "temperature": -11.5, "solar_radiation": 0.0, "humidity": 69.0, "wind_speed": 3.1},
+    {"hour": 22, "temperature": -12.0, "solar_radiation": 0.0, "humidity": 70.0, "wind_speed": 3.0},
+    {"hour": 23, "temperature": -12.2, "solar_radiation": 0.0, "humidity": 70.0, "wind_speed": 2.9}
+  ]
+}

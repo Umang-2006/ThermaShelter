@@ -1,0 +1,31 @@
+{
+  "location_id": "drass",
+  "location_name": "Drass, Ladakh",
+  "season": "Extreme Winter",
+  "hourly_data": [
+    {"hour": 0, "temperature": -22.0, "solar_radiation": 0.0, "humidity": 78.0, "wind_speed": 4.5},
+    {"hour": 1, "temperature": -23.5, "solar_radiation": 0.0, "humidity": 80.0, "wind_speed": 4.2},
+    {"hour": 2, "temperature": -25.0, "solar_radiation": 0.0, "humidity": 82.0, "wind_speed": 4.0},
+    {"hour": 3, "temperature": -26.5, "solar_radiation": 0.0, "humidity": 84.0, "wind_speed": 3.8},
+    {"hour": 4, "temperature": -27.8, "solar_radiation": 0.0, "humidity": 85.0, "wind_speed": 3.5},
+    {"hour": 5, "temperature": -28.5, "solar_radiation": 0.0, "humidity": 86.0, "wind_speed": 3.2},
+    {"hour": 6, "temperature": -27.5, "solar_radiation": 0.0, "humidity": 84.0, "wind_speed": 3.5},
+    {"hour": 7, "temperature": -25.0, "solar_radiation": 25.0, "humidity": 80.0, "wind_speed": 4.0},
+    {"hour": 8, "temperature": -21.0, "solar_radiation": 130.0, "humidity": 72.0, "wind_speed": 4.8},
+    {"hour": 9, "temperature": -17.0, "solar_radiation": 270.0, "humidity": 65.0, "wind_speed": 5.5},
+    {"hour": 10, "temperature": -13.5, "solar_radiation": 400.0, "humidity": 58.0, "wind_speed": 6.0},
+    {"hour": 11, "temperature": -11.0, "solar_radiation": 490.0, "humidity": 52.0, "wind_speed": 6.5},
+    {"hour": 12, "temperature": -9.5, "solar_radiation": 520.0, "humidity": 48.0, "wind_speed": 7.0},
+    {"hour": 13, "temperature": -9.0, "solar_radiation": 500.0, "humidity": 46.0, "wind_speed": 7.2},
+    {"hour": 14, "temperature": -9.8, "solar_radiation": 420.0, "humidity": 48.0, "wind_speed": 6.8},
+    {"hour": 15, "temperature": -11.5, "solar_radiation": 300.0, "humidity": 54.0, "wind_speed": 6.2},
+    {"hour": 16, "temperature": -14.0, "solar_radiation": 160.0, "humidity": 62.0, "wind_speed": 5.8},
+    {"hour": 17, "temperature": -17.0, "solar_radiation": 30.0, "humidity": 70.0, "wind_speed": 5.2},
+    {"hour": 18, "temperature": -19.2, "solar_radiation": 0.0, "humidity": 74.0, "wind_speed": 5.0},
+    {"hour": 19, "temperature": -20.5, "solar_radiation": 0.0, "humidity": 76.0, "wind_speed": 4.8},
+    {"hour": 20, "temperature": -21.2, "solar_radiation": 0.0, "humidity": 77.0, "wind_speed": 4.6},
+    {"hour": 21, "temperature": -21.8, "solar_radiation": 0.0, "humidity": 78.0, "wind_speed": 4.5},
+    {"hour": 22, "temperature": -22.2, "solar_radiation": 0.0, "humidity": 78.0, "wind_speed": 4.4},
+    {"hour": 23, "temperature": -22.5, "solar_radiation": 0.0, "humidity": 79.0, "wind_speed": 4.3}
+  ]
+}

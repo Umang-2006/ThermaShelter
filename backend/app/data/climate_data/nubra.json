@@ -1,0 +1,31 @@
+{
+  "location_id": "nubra",
+  "location_name": "Nubra Valley, Ladakh",
+  "season": "Winter",
+  "hourly_data": [
+    {"hour": 0, "temperature": -7.0, "solar_radiation": 0.0, "humidity": 60.0, "wind_speed": 1.8},
+    {"hour": 1, "temperature": -7.8, "solar_radiation": 0.0, "humidity": 62.0, "wind_speed": 1.6},
+    {"hour": 2, "temperature": -8.5, "solar_radiation": 0.0, "humidity": 65.0, "wind_speed": 1.4},
+    {"hour": 3, "temperature": -9.2, "solar_radiation": 0.0, "humidity": 68.0, "wind_speed": 1.3},
+    {"hour": 4, "temperature": -9.8, "solar_radiation": 0.0, "humidity": 70.0, "wind_speed": 1.2},
+    {"hour": 5, "temperature": -10.2, "solar_radiation": 0.0, "humidity": 72.0, "wind_speed": 1.1},
+    {"hour": 6, "temperature": -9.5, "solar_radiation": 0.0, "humidity": 70.0, "wind_speed": 1.3},
+    {"hour": 7, "temperature": -8.0, "solar_radiation": 50.0, "humidity": 64.0, "wind_speed": 1.8},
+    {"hour": 8, "temperature": -5.5, "solar_radiation": 200.0, "humidity": 55.0, "wind_speed": 2.2},
+    {"hour": 9, "temperature": -2.0, "solar_radiation": 380.0, "humidity": 48.0, "wind_speed": 2.8},
+    {"hour": 10, "temperature": 0.5, "solar_radiation": 530.0, "humidity": 40.0, "wind_speed": 3.2},
+    {"hour": 11, "temperature": 2.5, "solar_radiation": 640.0, "humidity": 34.0, "wind_speed": 3.5},
+    {"hour": 12, "temperature": 3.8, "solar_radiation": 680.0, "humidity": 30.0, "wind_speed": 3.8},
+    {"hour": 13, "temperature": 4.5, "solar_radiation": 650.0, "humidity": 28.0, "wind_speed": 4.0},
+    {"hour": 14, "temperature": 4.2, "solar_radiation": 560.0, "humidity": 30.0, "wind_speed": 3.8},
+    {"hour": 15, "temperature": 3.0, "solar_radiation": 420.0, "humidity": 35.0, "wind_speed": 3.5},
+    {"hour": 16, "temperature": 1.2, "solar_radiation": 240.0, "humidity": 40.0, "wind_speed": 3.0},
+    {"hour": 17, "temperature": -0.8, "solar_radiation": 70.0, "humidity": 46.0, "wind_speed": 2.5},
+    {"hour": 18, "temperature": -3.0, "solar_radiation": 0.0, "humidity": 52.0, "wind_speed": 2.2},
+    {"hour": 19, "temperature": -4.5, "solar_radiation": 0.0, "humidity": 55.0, "wind_speed": 2.0},
+    {"hour": 20, "temperature": -5.5, "solar_radiation": 0.0, "humidity": 57.0, "wind_speed": 1.9},
+    {"hour": 21, "temperature": -6.2, "solar_radiation": 0.0, "humidity": 58.0, "wind_speed": 1.8},
+    {"hour": 22, "temperature": -6.6, "solar_radiation": 0.0, "humidity": 59.0, "wind_speed": 1.7},
+    {"hour": 23, "temperature": -6.8, "solar_radiation": 0.0, "humidity": 60.0, "wind_speed": 1.7}
+  ]
+}

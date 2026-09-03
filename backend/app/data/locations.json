@@ -1,0 +1,47 @@
+[
+  {
+    "id": "leh",
+    "name": "Leh, Ladakh",
+    "latitude": 34.1526,
+    "longitude": 77.5771,
+    "elevation": 3500,
+    "region": "Ladakh Cold Desert",
+    "description": "High altitude cold desert with sub-zero winter temperatures, intense solar radiation during clear days, and extreme diurnal variation."
+  },
+  {
+    "id": "kargil",
+    "name": "Kargil, Ladakh",
+    "latitude": 34.5539,
+    "longitude": 76.1349,
+    "elevation": 2676,
+    "region": "Ladakh River Valley",
+    "description": "Trans-Himalayan valley region with heavy winter snow, severe cold snaps down to -20°C, and strategic shelter requirements."
+  },
+  {
+    "id": "drass",
+    "name": "Drass, Ladakh",
+    "latitude": 34.4294,
+    "longitude": 75.7513,
+    "elevation": 3280,
+    "region": "Sub-Arctic Zone",
+    "description": "Second coldest inhabited place in the world. Winter temperatures drop below -30°C with severe heat loss conditions."
+  },
+  {
+    "id": "nubra",
+    "name": "Nubra Valley, Ladakh",
+    "latitude": 34.6863,
+    "longitude": 77.5673,
+    "elevation": 3048,
+    "region": "High Altitude Valley",
+    "description": "Cold desert valley surrounded by high mountains. High daytime solar potential with freezing nights."
+  },
+  {
+    "id": "changthang",
+    "name": "Changthang Plateau, Ladakh",
+    "latitude": 33.4000,
+    "longitude": 78.5000,
+    "elevation": 4500,
+    "region": "High Tibetan Plateau",
+    "description": "Ultra-high altitude plateau with severe gale-force winds, intense solar radiation, and extreme sub-zero conditions."
+  }
+]
